@@ -10,17 +10,17 @@
     "contact_us_mobile": "Skontaktuj się z nami:",
     "contact_us": "Skontaktuj się z nami:",
     "intro_title": "Profesjonalizm i Doświadczenie w Budowie i Renowacjach",
-    "intro_content": "Specjalizujemy się w kompleksowych wykończeniach wnętrz, remontach, projektowaniu łazienek oraz realizacji elewacji. Nasza firma gwarantuje wykorzystanie najnowszych technologii i materiałów, zapewniając wysoką jakość i trwałość wykonania. Realizujemy projekty na terenie całej Polski, oferując doradztwo, projektowanie i wykonawstwo na najwyższym poziomie.",
-    "about_us": "O Nas",
-    "about_us_content": "PK BAU Projekte to zespół doświadczonych specjalistów w branży budowlanej i remontowej. Dzięki wieloletniemu doświadczeniu zapewniamy kompleksową obsługę i realizację projektów budowlanych, od koncepcji po finalne wykończenie. Naszym priorytetem jest zadowolenie klientów, które osiągamy dzięki indywidualnemu podejściu, innowacyjnym rozwiązaniom i niezawodności.",
+    "intro_content": "Specjalizuję się w profesjonalnych wykończeniach wnętrz, remontach, projektowaniu łazienek oraz realizacji elewacji. Posiadam 15-letnie doświadczenie w branży budowlanej, nabyte w Niemczech, Szwajcarii i Austrii. Gwarantuję wykorzystanie najnowszych technologii i materiałów, zapewniając wysoką jakość i trwałość wykonania. Realizuję projekty na terenie całej Polski, oferując doradztwo, projektowanie i wykonawstwo na najwyższym poziomie.",
+    "about_us": "O Mnie",
+    "about_us_content": "PK BAU Projekte to ja, doświadczony specjalista w branży budowlanej i remontowej, z ponad 15-letnim doświadczeniem zdobytym w Niemczech, Szwajcarii i Austrii. Dzięki tej wiedzy i umiejętnościom zapewniam kompleksową obsługę i realizację projektów budowlanych, od koncepcji po finalne wykończenie. Moim priorytetem jest zadowolenie klientów, które osiągam dzięki indywidualnemu podejściu, innowacyjnym rozwiązaniom i niezawodności.",
     "our_services": "Nasze Usługi",
     "service_1_title": "Remonty",
-    "service_1_content": "Oferujemy szeroki zakres usług remontowych, od małych poprawek po kompleksowe przebudowy wnętrz, włącznie z modernizacją instalacji.",
+    "service_1_content": "Oferuję szeroki zakres usług remontowych, od małych poprawek po kompleksowe przebudowy wnętrz, włącznie z modernizacją instalacji.",
     "service_2_title": "Łazienki",
-    "service_2_content": "Specjalizujemy się w projektowaniu i wykonawstwie łazienek. Od nowoczesnych po klasyczne, tworzymy funkcjonalne i estetycznie przyjemne przestrzenie.",
+    "service_2_content": "Specjalizuję się w projektowaniu i wykonawstwie łazienek. Od nowoczesnych po klasyczne, tworzę funkcjonalne i estetycznie przyjemne przestrzenie.",
     "service_3_title": "Elewacje",
-    "service_3_content": "Zajmujemy się również projektowaniem i wykonawstwem elewacji, które nie tylko chronią, ale i podkreślają charakter budynku.",
-    "contact_title": "Skontaktuj Się z Nami",
+    "service_3_content": "Zajmuję się również projektowaniem i wykonawstwem elewacji oraz ociepleniami fasad. Posiadam certyfikaty szkoleniowe z firm Weber i Caparol, co świadczy o mojej wiedzy i umiejętnościach w tej dziedzinie.",
+    "contact_title": "Skontaktuj Się ze Mną",
     "send_message": "Wyślij Wiadomość",
     "footer_rights": "&copy; Wszelkie prawa zastrzeżone PK BAU Projekte",
     "your_name_placeholder": "Twoje Imię *",
@@ -28,5 +28,4 @@
     "subject_placeholder": "Temat",
     "your_message_placeholder": "Twoja Wiadomość *"
   }
-
 }
